@@ -4,7 +4,7 @@ Chuyển đổi số thành dạng chữ Việt Nam, hỗ trợ lên đến hàn
 # Cách sử dụng
 Cài đặt thư viện
 ```
-npm install devjoy-convert-number-vn
+npm install @devjoyvn/convert-number-vn
 ```
 
 Trong file js:

@@ -1,7 +1,7 @@
 {
-  "name": "devjoy-convert-number-vn",
-  "version": "1.0.5",
-  "description": "",
+  "name": "@devjoyvn/convert-number-vn",
+  "version": "1.0.1",
+  "description": "Chuyển đổi số thành dạng chữ Việt Nam, hỗ trợ lên đến hàng trăm tỷ",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,8 +10,18 @@
     "type": "git",
     "url": "git+https://github.com/devjoyvn/npmjs-convert-number-vn.git"
   },
-  "keywords": ["convert number", "number to vietnamese text", "number to text", "vietnam"],
-  "author": "",
+  "keywords": [
+    "convert number",
+    "number to vietnamese text",
+    "number to text",
+    "vietnam",
+    "devjoyvn",
+    "devjoy.vn",
+    "javascript",
+    "chuyển từ số sang chữ Tiếng Việt đơn vị tiền",
+    "js"
+  ],
+  "author": "devjoyvn <devjoyvn@gmail.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/devjoyvn/npmjs-convert-number-vn/issues"
