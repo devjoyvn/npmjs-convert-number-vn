@@ -67,7 +67,7 @@ function convert_block_two(number) {
     var append = '';
 
     // Nếu số hàng đơn vị là 5
-    if (number[0] > 0 && a[1] == 5) {
+    if (number[0] > 0 && number[1] == 5) {
         dv = 'lăm';
     }
 
