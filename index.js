@@ -7,7 +7,7 @@ const chuHangDonVi = ('1 một' + defaultNumbers).split(' ');
 const chuHangChuc = ('lẻ mười' + defaultNumbers).split(' ');
 const chuHangTram = ('không một' + defaultNumbers).split(' ');
 
-module.exports = function to_vietnamese(number) {
+module.exports.to_vietnamese = function to_vietnamese(number) {
     var str = parseInt(number) + '';
     var i = 0;
     var arr = [];
