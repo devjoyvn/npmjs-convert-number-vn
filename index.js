@@ -26,7 +26,7 @@ function to_vietnamese(number) {
     }
 
     // Lặp từng khối trong mảng trên và convert từng khối đấy ra chữ Việt Nam
-    for (i == arr.length - 1; i >= 0; i--) {
+    for (i = arr.length - 1; i >= 0; i--) {
         if (arr[i] != '' && arr[i] != '000') {
             result.push(convert_block_three(arr[i]));
 

@@ -1,6 +1,6 @@
 {
   "name": "devjoy-convert-number-vn",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/devjoyvn/npmjs-convert-number-vn.git"
   },
-  "keywords": [],
+  "keywords": ["convert number", "number to vietnamese text", "number to text", "vietnam"],
   "author": "",
   "license": "ISC",
   "bugs": {
